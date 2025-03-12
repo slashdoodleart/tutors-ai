@@ -1,13 +1,16 @@
-# Tutorai
-## Install Node.js and npm
+# Tutor's AI
+Step 1: Install Node.js and npm from...
 ```
 https://nodejs.org/en/download
 ```
-## Start
 
-To run the development server:
+Step 2:
 ```
+
 npm install
+```
+Step 3:
+```
 npm run dev
 ```
 
