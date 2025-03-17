@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 # Tutor's AI
-=======
-# tutorsai
-
-tutorsairaa
 
 ## Getting Started
 
